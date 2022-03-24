@@ -16,7 +16,8 @@ This demo provides a PowerBI Templates (pbit files) to load data from VMware vRe
 ![image2021-5-28_14-10-5](https://user-images.githubusercontent.com/54750245/159877001-57b66f98-f5f3-4214-b546-6b7e65de4d68.png)
 
 ## User Guides
-For simple, PoC style implementations see How to Get vRealize Operations Data into Microsoft PowerBI.
+For simple, PoC style implementations see [How to Get vRealize Operations Data into Microsoft PowerBI](https://github.com/gregorlukas/vrops-powerbi/blob/main/How%20to%20Get%20vROps%20Data%20into%20PowerBI.md).
+
 For production grade implementations with scheduled, incremental refreshes see How to Schedule Incremental Data Refresh of vROps Data in PowerBI .
 
 ## Known Issues
